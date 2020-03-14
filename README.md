@@ -1,4 +1,4 @@
 # SweetJar
-# Keep your Ideas in one place ! <h2> tag
-# Mohammad Alghrawe <h3> tag
+### Keep your Ideas in one place !
+##### Mohammad Alghrawe 
 ![GitHub Logo](/images/SweetJAr.jpg)
